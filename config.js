@@ -1,4 +1,4 @@
-import firebase from '@firebase/app';
+import firebase from 'firebase/app';
 import '@firebase/util';
 import '@firebase/logger';
 import '@firebase/webchannel-wrapper';
